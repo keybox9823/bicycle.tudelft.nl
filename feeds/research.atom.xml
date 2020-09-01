@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TU Delft Bicycle Lab - research</title><link href="https://moorepants.github.io/bicycle.tudeflt.nl/" rel="alternate"></link><link href="https://moorepants.github.io/bicycle.tudeflt.nl/feeds/research.atom.xml" rel="self"></link><id>https://moorepants.github.io/bicycle.tudeflt.nl/</id><updated>2020-09-01T14:44:00+02:00</updated><entry><title>My First Blog Post</title><link href="https://moorepants.github.io/bicycle.tudeflt.nl/my-first-blog-post.html" rel="alternate"></link><published>2020-09-01T14:44:00+02:00</published><updated>2020-09-01T14:44:00+02:00</updated><author><name>Jason K. Moore</name></author><id>tag:moorepants.github.io,2020-09-01:/bicycle.tudeflt.nl/my-first-blog-post.html</id><content type="html">&lt;!-- This is a comment, below is the meta data. --&gt;
+&lt;div class="section" id="my-first-header"&gt;
+&lt;h2&gt;My first header&lt;/h2&gt;
+&lt;p&gt;This is some text.&lt;/p&gt;
+&lt;img alt="" src="https://www.volare-bicycles.com/images/detailed/22/Volare_Cool_Rider_16_inch_trans-W1800.jpg" style="width: 400px;" /&gt;
+&lt;p&gt;This is a list of nice things:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;one thing&lt;/li&gt;
+&lt;li&gt;two thing&lt;/li&gt;
+&lt;li&gt;three thing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="research"></category><category term="bicycle"></category><category term="control"></category></entry></feed>
