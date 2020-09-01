@@ -1,2 +1,2 @@
 Some text for this file.
-Hello Arend, welome to Git!
+Hello Jason!
